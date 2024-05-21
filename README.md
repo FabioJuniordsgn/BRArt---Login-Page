@@ -1,2 +1,2 @@
-Esse projeto é muito especial para mim, e atrav´´és desse, eu estou conseguindo aplicar meus conhecimentos em design system e responsividade.
-As linguagens utilizadas foram HTML, CSS e futuramente irei adicionar JAVASCRIPT
+This project is very special to me, and through it I'm able to apply my knowledge of system design and responsiveness.
+The languages used were HTML, CSS and in the future I'll be adding JAVASCRIPT
